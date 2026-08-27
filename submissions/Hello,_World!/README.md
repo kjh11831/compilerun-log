@@ -1,7 +1,7 @@
 # Hello, World!
 
 **난이도:** ★
-**문제 링크:** http://localhost:3000/problems/6667fdcb-5ffa-44e5-9f93-8192d0a94f41
+**문제 링크:** https://compilerun.vercel.app/problems/6667fdcb-5ffa-44e5-9f93-8192d0a94f41
 
 ## 문제 지문
 
@@ -20,7 +20,7 @@ dsafsd
 ## 내 정답 코드 (Python)
 
 ```python
-dsafsd
+print("Hello, World!")
 ```
 
 ## 모범 답안
@@ -38,4 +38,4 @@ int main(void)
 
 모든 언어 학습의 첫걸음입니다. 출력 문자열과 줄바꿈을 정확히 맞추는 습관을 들이세요.
 
-_해결일: 2026-08-16_
+_해결일: 2026-08-27_
