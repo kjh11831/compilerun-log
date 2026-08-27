@@ -1,1 +1,1 @@
-dsafsd
+print("Hello, World!")
