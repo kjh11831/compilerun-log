@@ -1,0 +1,5 @@
+arr = list(map(int, input().split()))
+even_idx = sum(arr[i] for i in range(10) if i % 2 == 0)
+odd_idx = sum(arr[i] for i in range(10) if i % 2 == 1)
+print(f"짝수 인덱스 합: {even_idx}")
+print(f"홀수 인덱스 합: {odd_idx}")
